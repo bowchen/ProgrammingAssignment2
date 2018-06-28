@@ -1,3 +1,7 @@
+### this is a line from RStudio
+
+###Commit from Rstudio
+
 ### Introduction
 
 This second programming assignment will require you to write an R
